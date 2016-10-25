@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2015\Projects\Ir\Ir\bin\Debug\Ir.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\Ir\Ir\bin\Debug\Ir.exe
+c:\users\alex\documents\visual studio 2015\Projects\Ir\Ir\bin\Debug\Ir.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Ir\Ir\obj\Debug\Ir.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\Ir\Ir\obj\Debug\Ir.exe
+c:\users\alex\documents\visual studio 2015\Projects\Ir\Ir\obj\Debug\Ir.pdb
